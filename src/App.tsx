@@ -10,7 +10,7 @@ export default function App() {
   return (
     <>
       <Header />
-      <Home title="Sawaira Maroof" />
+      <Home title="Suleman Saeed" />
       <Services />
       <Projects />
       <About />

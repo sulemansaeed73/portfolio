@@ -10,6 +10,9 @@ import Eztill3 from "../src/images/Project32.jpg";
 import Tekruiter from "../src/images/Project4.jpg";
 import Tekruiter2 from "../src/images/Project41.jpg";
 import Tekruiter3 from "../src/images/Project42.jpg";
+import Retriever from "../src/images/Retriever2.png";
+import Retriever2 from "../src/images/Retriever.png";
+import Retriever3 from "../src/images/Retriever3.png";
 import aboutImage from "../src/images/gig.jpg";
 import Trends from "../src/images/Trends.jpg";
 export const servicesData = [
@@ -99,6 +102,16 @@ export const recentProjects = [
       "The Hostel Management System is a web application built on Laravel technology, facilitating efficient management of hostel operations. Users log in with specified roles, accessing features like room allocation, resident management, and billing. Administrators can input hostel details, manage room allocations, and access comprehensive reporting tools for insights into occupancy rates and revenue streams. Residents register securely, view billing history, and make online payments. With its user-friendly interface the system streamlines hostel management, benefiting administrators, staff, and residents alike.",
   },
 
+  {
+    img: Retriever,
+    img2: Retriever2,
+    img3: Retriever3,
+    subTitle: "Retriever",
+    description:
+      "Retriever is a web-based platform designed to help users find lost items and upload found items. The system aims to address the common problem of losing personal items in public places such as schools, airports, and public transportation. Users can enter information such as item descriptions, locations where the items were last seen, and any unique identifiers or distinguishing features. This comprehensive approach ensures that all relevant information is captured, increasing the likelihood of successful item recovery."
+      ,
+  },
+
 ];
 //Recent projects data end here
 //about section data starts here
@@ -106,7 +119,7 @@ export const aboutData = {
    img: aboutImage,
   position: "Web Developer & UI/UX Designer",
   description:
-    "I Sawaira Maroof, a passionate and skilled Software Engineer with a Bachelor's degree in Software Engineering from the University of Central Punjab, Lahore Pakistan. I possesses a deep understanding of web technologies and enjoys crafting visually appealing and user-friendly interfaces. I am proficient in HTML, CSS, and JavaScript, the core technologies that power modern web applications in React.JS, MERN and many more. I am also well-versed in website and mobile app design, to create engaging and impactful mobile experiences. I am passionate about creating user-centered designs that are both visually appealing and functionally intuitive.",
+    "I Suleman Saeed, a passionate and skilled Software Engineer with a Bachelor's degree in Software Engineering from the University of Central Punjab, Lahore Pakistan. I possesses a deep understanding of web technologies and enjoys crafting visually appealing and user-friendly interfaces. I am proficient in HTML, CSS, and JavaScript, the core technologies that power modern web applications in React.JS, MERN and many more. I am also well-versed in website and mobile app design, to create engaging and impactful mobile experiences. I am passionate about creating user-centered designs that are both visually appealing and functionally intuitive.",
 };
 
 //about section data ends here
@@ -120,7 +133,7 @@ export const contactData = [
   },
   {
     img: "https://img.icons8.com/bubbles/100/000000/new-post.png",
-    textTwo: "sawairamaroof61@gmail.com",
+    textTwo: "sulemansaeed73@gmail.com",
     textOne: "",
     source: "Email",
   },

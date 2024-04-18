@@ -6,7 +6,7 @@ export default function Footer() {
         <section id="footer">
         <div className="footer container">
           <div className="brand">
-            <NameSeperator name="Sawaira Maroof"/>
+            <NameSeperator name="Suleman Saeed"/>
           </div> 
           <h2>Web Developer & UI/UX Designer</h2>
           <div className="social-icon">

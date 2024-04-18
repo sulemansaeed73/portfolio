@@ -33,9 +33,9 @@ export default function Projects() {
                     <img src={item.img} alt="" />
                   </div>
                 </div>
-                <div style={{ display: "flex" }}>
-                  <img src={item.img2} alt="" style={{ width: "50%" }} />
-                  <img src={item.img3} alt="" style={{ width: "50%" }} />
+                <div className="side_img">
+                  <img src={item.img2} alt="" className="side1" />
+                  <img src={item.img3} alt="" className="side1" />
                 </div>
               </div>
             );

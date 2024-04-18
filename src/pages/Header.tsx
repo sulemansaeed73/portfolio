@@ -27,7 +27,7 @@ const Header = () => {
           <div className="brand">
             <a href="#home">
 
-              <NameSeperator name="Sawaira Maroof" />
+              <NameSeperator name="Suleman Saeed" />
             </a>
           </div>
           <div className="nav-list">
